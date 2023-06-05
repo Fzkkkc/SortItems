@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: c850ee8c3b14cc8459e7e186857cf567
+  - enabled: 1
+    path: Assets/Scenes/WinScene.unity
+    guid: 93cc054843ae8fd4b9e8384050c638ce
+  - enabled: 1
+    path: Assets/Scenes/LoseScene.unity
+    guid: c2c1fea60c8672f45a87a0a63cdedb70
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: eac258fd1fef26e409783aeae03a9caa,
+      type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 8f6353d86c533a144851ca31101c9f64, type: 2}
